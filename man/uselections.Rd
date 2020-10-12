@@ -3,7 +3,7 @@
 \docType{data}
 \name{uselections}
 \alias{uselections}
-\title{Flights data}
+\title{US elections data}
 \format{
 A data frame with columns:
 \describe{

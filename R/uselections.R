@@ -1,4 +1,4 @@
-#' Flights data
+#' US elections data
 #'
 #' Contains county-level returns for presidential elections from 2000 to 2016.
 #' The data source is official state election data records.
