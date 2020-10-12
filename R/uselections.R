@@ -1,11 +1,9 @@
 #' US elections data
 #'
 #' Contains county-level returns for presidential elections from 2000 to 2016.
-#' The data source is official state election data records.
-#'
-#' Note: County results in Alaska for 2004 are based on official Alaska data,
-#' but it is clear the district returns significantly overstate the number
-#' of votes cast.
+#' The data source is official state election data records. Note: County results
+#' in Alaska for 2004 are based on official Alaska data, but it is clear the
+#' district returns significantly overstate the number of votes cast.
 #'
 #' @name uselections
 #' @docType data

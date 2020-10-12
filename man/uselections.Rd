@@ -27,11 +27,8 @@ Harvard Dataverse, V6, UNF:6:ZZe1xuZ5H2l4NUiSRcRf8Q
 }
 \description{
 Contains county-level returns for presidential elections from 2000 to 2016.
-The data source is official state election data records.
-}
-\details{
-Note: County results in Alaska for 2004 are based on official Alaska data,
-but it is clear the district returns significantly overstate the number
-of votes cast.
+The data source is official state election data records. Note: County results
+in Alaska for 2004 are based on official Alaska data, but it is clear the
+district returns significantly overstate the number of votes cast.
 }
 \keyword{datasets}
