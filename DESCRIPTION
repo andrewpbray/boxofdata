@@ -4,9 +4,9 @@ Version: 0.0.0.9000
 Authors@R: 
     c(person(given = "Andrew",
              family = "Bray",
-             role = c("aut"),
+             role = c("aut", "cre"),
              email = "andrewbray@berkeley.edu"))
-Description: 
+Description: Provides several different data sets for teaching.
 License: CC0
 URL: http://github.com/andrewpbray/boxofdata
 Depends: 
